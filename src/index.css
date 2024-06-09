@@ -30,6 +30,11 @@ body
   width: calc(100% - 250px);
 }
 
+.navbar-link
+{
+  text-decoration: none;
+}
+
 .navbar-link:hover 
 {
   color: rgb(106, 106, 106) !important;
